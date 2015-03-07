@@ -1,4 +1,6 @@
 # dws-1
 Designing with Web Standards
 
-https://github.com/Specialkidsrock/dws-1/tree/gh-pages
+https://github.com/Specialkidsrock/dws-1/tree/gh-pages/Project1
+
+specialkidsrock.github.io/dws-1/project1

@@ -1,5 +1,13 @@
+body {
+	font-family: Arial, Verdana, sans-serif;
+	}
+
+h	{
+	color: #ee3e80;
+	}
+	
 p.zero	{	
-	background-color: red;
+	background-color: #85DB18;
 	}
 	
 p.one	{	
@@ -18,7 +26,4 @@ p.four	{
 	background-color: #493F0B;
 	}
 	
-body	{
-	background-color: black;
-	}
-		
+	

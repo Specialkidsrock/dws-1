@@ -1,0 +1,39 @@
+h1	{
+	font-face: Georgia, Times, serif;
+	font-size: 250%;
+	text-shadow: 2px 2px 0px #666666;
+	}
+
+h2	{
+	font-face: Gill Sans, Arial, sans-serif;
+	font-size: 90%;
+	text-transform: uppercase;
+	}
+
+h3	{
+	font-size: 150%;
+	}
+
+p	{
+	font-face: Arial, Verdana, sans-serif;
+	line-height: 1.4em;
+	}
+	
+h	{
+	font-weight: normal;
+	}
+
+a:link	{
+	font-weight: bold;
+	text-decoration: none;	
+	}
+
+intro	{
+	font-weight: bold;
+		}
+
+#credits	{
+	font-style: italic;
+	text-align: right;
+	}
+

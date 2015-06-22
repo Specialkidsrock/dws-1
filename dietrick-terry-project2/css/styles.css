@@ -1,0 +1,95 @@
+body	{
+	background-color: #547F00;
+		}
+	
+#page	{
+	max-width: 960px;
+	min-width: 480px;
+	padding: 10px;
+	border: 4px double #123;
+	background-color: rgba(216,202,168,.9);
+	margin: 15px auto;
+	border-radius: 10px;
+		}
+		
+/* --- Header --- */
+
+h1		{
+	font-family: 'Tangerine', Arial , serif;
+	font-weight: bold;
+	font-size: 400%;
+	text-align: center;
+		}
+		
+h2, h3, h4		{
+	margin: 5px auto;
+	text-align: center;
+	text-shadow: 2px 2px 2px #ccc;
+		}
+		
+p		{
+	line-height: 1.4em;
+	text-indent: 20px;
+		}
+		
+/* --- Navigation --- */
+
+.nav	{
+	display: table;
+	margin: 0px auto;
+		}
+
+ul#navigation		{
+	max-width: 960px;
+	min-width: 480px;
+	list-style: none;
+	padding-top: 20px;
+	text-align: center;
+		}
+
+ul#navigation li	{
+	display: inline;
+	margin-right: 10px;
+		}
+				
+a:link	{
+	color: #1695A3;
+	text-decoration: none;
+		}
+		
+a:visited	{
+	color:black
+		}
+
+a:hover	{
+	color: #ACF0F2;
+		}
+
+a:active	{
+	color: #225378;
+		}
+		
+/* --- Contact Us Link --- */
+#contact a:hover	{
+	color: #ACF0F2;
+		}
+		
+ol#evo5	{
+	list-style-type: lower-roman;
+	font-size: 75%
+		}
+
+p#bio	{
+	max-width: 960px;
+	min-width: 480px;
+	padding: 10px;
+	border: 4px double #123;
+	background-color: rgba(216,202,168,.9);
+	margin: 15px auto;
+	border-radius: 10px;
+	}
+
+p#mainpage	{
+	text-align: center;
+	
+	}
